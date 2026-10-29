@@ -41,4 +41,4 @@ Configuration: Network Name is "NatNetwork" IPv4 Prefix: 10.0.0.0/24 DHCP: Enabl
 This NAT Network was selected because multiple virtual machines connected to the same NAT Network can communicate with one another while also having outbound network connectivity.
 
 # Step 3. Import Kali Linux
-![image alt]()
+![image alt](https://github.com/MuhabwaDavies/NETWORKWALKS-DAVIES-B084B-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/50e3c757daf93195f4f6419dde13accb06b5259a/Screenshot%202026-10-29%20113740.png)
