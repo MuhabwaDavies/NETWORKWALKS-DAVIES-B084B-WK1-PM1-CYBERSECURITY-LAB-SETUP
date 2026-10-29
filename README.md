@@ -37,3 +37,4 @@ VirtualBox was installed as the hypervisor.
 A dedicated NAT Network was created in VirtualBox.
 
 Configuration: Network Name is "NatNetwork" IPv4 Prefix: 10.0.0.0/24 DHCP: Enabled
+![image alt](https://github.com/MuhabwaDavies/NETWORKWALKS-DAVIES-B084B-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/326b31ffbd62e5fccddb661e37808084802e3908/NATsetup.png)
