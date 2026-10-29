@@ -48,10 +48,35 @@ A shared folder was also configured for easy transfer of files between the host 
 
 # Step 4. Kali Linux Network configuration
 The Kali Linux network configuration was checked and configured with a consistent IPv4 address.
-IP Address: 10.0.0.2
-Subnet Mask: 255.255.255.0
-Gateway: 10.0.0.1
-DNS: 8.8.8.8
+- IP Address 10.0.0.2
+- Subnet Mask 255.255.255.0
+- Gateway 10.0.0.1
+- DNS 8.8.8.8
 
 ![image alt](https://github.com/MuhabwaDavies/NETWORKWALKS-DAVIES-B084B-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/4b46f48628161ad20b8361fa334304f5bf6797b4/Screenshot%202026-10-29%20150258.png)
 
+# What I Learned
+**1. NAT vs NAT Network**
+- NAT: Allows a virtual machine to access the internet through the host, but virtual machines generally cannot communicate directly with each other.
+- NAT Network: Allows virtual machines on the same NAT Network to communicate with each other and access the internet.
+Why I chose NAT Network: It allows me to connect multiple virtual machines for controlled cybersecurity testing in an isolated lab environment.
+**2. Virtual Machine Networking**
+I learned how VirtualBox virtual network adapters connect virtual machines to different types of networks and how network configuration affects communication between machines.
+**3. Static IP Configuration**
+I learned how to configure and verify IPv4 addressing, subnet masks, gateways, and DNS settings in Kali Linux.
+**4. VM Snapshots**
+I learned that a clean snapshot should be created before performing risky or experimental activities.
+**5. Documentation**
+I learned that documenting commands, configuration, screenshots, problems, and solutions is an important part of a professional cybersecurity project.
+# Security & Ethical Use
+This lab is intended strictly for education purposes only.
+# Tools & Resources
+- VirtualBox: https://virtualbox.org/wiki/Downloads
+- Kali Linux: https://kali.org/get-kali
+# Author
+Muhabwa Davies.
+Cybersecurity Professional B084B
+
+LinkedIn: www.linkedin.com/in/muhabwa-davies-b8a3081b2
+# Project Information
+Program Name: Cybersecurity at Networkwalks | Week: 01 | Project: Cybersecurity & Pentesting Lab Setup | Repository: GitHub
