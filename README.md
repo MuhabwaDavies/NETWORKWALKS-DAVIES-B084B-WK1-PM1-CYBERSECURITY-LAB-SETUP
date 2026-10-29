@@ -53,4 +53,5 @@ Subnet Mask: 255.255.255.0
 Gateway: 10.0.0.1
 DNS: 8.8.8.8
 
-![image alt]()
+![image alt](https://github.com/MuhabwaDavies/NETWORKWALKS-DAVIES-B084B-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/4b46f48628161ad20b8361fa334304f5bf6797b4/Screenshot%202026-10-29%20150258.png)
+
