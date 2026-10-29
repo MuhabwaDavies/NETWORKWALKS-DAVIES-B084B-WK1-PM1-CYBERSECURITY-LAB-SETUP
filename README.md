@@ -41,4 +41,16 @@ Configuration: Network Name is "NatNetwork" IPv4 Prefix: 10.0.0.0/24 DHCP: Enabl
 This NAT Network was selected because multiple virtual machines connected to the same NAT Network can communicate with one another while also having outbound network connectivity.
 
 # Step 3. Import Kali Linux
+The Kali Linux virtual machine was downloaded from the official Kali Linux website and imported into VirtualBox.
+The VM was allocated a RAM of 2048 MB
 ![image alt](https://github.com/MuhabwaDavies/NETWORKWALKS-DAVIES-B084B-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/50e3c757daf93195f4f6419dde13accb06b5259a/Screenshot%202026-10-29%20113740.png)
+A shared folder was also configured for easy transfer of files between the host operating system and the Kali VM.
+
+# Step 4. Kali Linux Network configuration
+The Kali Linux network configuration was checked and configured with a consistent IPv4 address.
+IP Address: 10.0.0.2
+Subnet Mask: 255.255.255.0
+Gateway: 10.0.0.1
+DNS: 8.8.8.8
+
+![image alt]()
